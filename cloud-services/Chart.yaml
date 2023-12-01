@@ -6,5 +6,5 @@ version: 0.0.1
 appVersion: 0.0.1
 dependencies:
   - name: argoApp
-    repository: file://../../../global/helpers/charts/argoApp
+    repository: file:///../global/helpers/charts/argoApp
     version: 0.0.1
