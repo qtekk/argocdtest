@@ -1,7 +1,7 @@
 repoURL: https://github.com/qtekk/argocdtest
 destination:
   server: https://kubernetes.default.svc
-project: test-cloud-services
+project: default
 env: test
 app: cloud-services
 
